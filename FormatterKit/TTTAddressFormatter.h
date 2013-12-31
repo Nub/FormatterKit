@@ -23,6 +23,9 @@
 #import <Foundation/Foundation.h>
 #import <Availability.h>
 
+#import <AddressBook/AddressBook.h>
+#import <AddressBookUI/AddressBookUI.h>
+
 #ifdef __ABPerson__
 
 /**
